@@ -32,7 +32,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <table>
 <tr>
@@ -41,10 +41,10 @@ Every project I build is an opportunity to learn something new, refine my engine
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/C%2B%2B-58A6FF?style=for-the-badge&logo=cplusplus&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Python%20(Learning)-58A6FF?style=for-the-badge&logo=python&logoColor=0D1117" />
 
 </td>
+
 <td valign="top" width="50%">
 
 **Frontend**
@@ -55,6 +55,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 
 </td>
 </tr>
+
 <tr>
 <td valign="top" width="50%">
 
@@ -63,6 +64,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 <img src="https://img.shields.io/badge/Flask-58A6FF?style=for-the-badge&logo=flask&logoColor=0D1117" />
 
 </td>
+
 <td valign="top" width="50%">
 
 **Database**
@@ -71,6 +73,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 
 </td>
 </tr>
+
 <tr>
 <td valign="top" width="50%">
 
@@ -82,12 +85,13 @@ Every project I build is an opportunity to learn something new, refine my engine
 <img src="https://img.shields.io/badge/PyCharm-8B949E?style=for-the-badge&logo=pycharm&logoColor=0D1117" />
 
 </td>
+
 <td valign="top" width="50%">
 
-**AI / ML — Learning**
+**Currently Learning**
 <br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-0D1117?style=for-the-badge&logo=googlecloud&logoColor=58A6FF" />
 
 </td>
 </tr>
