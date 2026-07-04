@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<img src="./assets/banner.png" alt="Shambhavi banner" width="100%" />
+<img src="./assets/banner.svg" alt="Shambhavi banner" width="100%" />
 
 <br/>
 
@@ -18,7 +17,6 @@
 </div>
 
 <br/>
-
 
 ## About Me
 
@@ -91,6 +89,21 @@ users think, and shipping in small, deliberate increments.
 </td>
 <td width="25%" align="center">
 
+**🎯 SWE Internship Prep**
+<br/>
+<sub>System design fundamentals + mocks</sub>
+
+</td>
+<td width="25%" align="center">
+
+**⚡ Hackathons**
+<br/>
+<sub>Rapid prototyping under constraints</sub>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 ## Tech Stack
@@ -128,7 +141,7 @@ users think, and shipping in small, deliberate increments.
 
 **Database**
 <br/>
-<img src="https://img.shields.io/badge/MySQL-79C0FF?style=for-the-badge&logo=mysql&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-79C0FF?style=for-the-badge&logo=postgresql&logoColor=0D1117" />
 
 </td>
 </tr>
@@ -169,7 +182,7 @@ exercise a different part of the stack above.</sub>
 <tr>
 <td width="100%">
 
-<img src="./assets/project-career-platform.png" width="100%" alt="AI Career Guidance Platform preview" />
+<img src="./assets/cover-career-platform.svg" width="100%" alt="AI Career Guidance Platform preview" />
 
 ### AI Career Guidance Platform
 
@@ -185,9 +198,9 @@ academic profile.
 - Curated opportunity feed (internships, courses, competitions)
 - Clean, responsive dashboard UI
 
-<a href="https://github.com/YOUR-USERNAME/ai-career-guidance-platform"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+<a href="https://github.com/shambhavi-mahi/ai-career-guidance-platform"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+<a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
 
 </td>
 </tr>
@@ -196,7 +209,7 @@ academic profile.
 <tr>
 <td width="100%">
 
-<img src="./assets/project-sports-analytics.png" width="100%" alt="Sports Analytics Dashboard preview" />
+<img src="./assets/cover-sports-analytics.svg" width="100%" alt="Sports Analytics Dashboard preview" />
 
 ### Sports Analytics Dashboard
 
@@ -211,9 +224,9 @@ and visual insights drawn from match data.
 - Filterable, query-driven data views
 - Insight cards summarizing key trends
 
-<a href="https://github.com/YOUR-USERNAME/sports-analytics-dashboard"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+<a href="https://github.com/shambhavi-mahi/sports-analytics-dashboard"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+<a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
 
 </td>
 </tr>
@@ -222,14 +235,14 @@ and visual insights drawn from match data.
 <tr>
 <td width="100%">
 
-<img src="./assets/project-smart-garbage.png" width="100%" alt="Smart Garbage Collection System preview" />
+<img src="./assets/cover-smart-garbage.svg" width="100%" alt="Smart Garbage Collection System preview" />
 
 ### Smart Garbage Collection System
 
 A smart-city solution that optimizes waste collection routes using
 real-time bin monitoring, reducing unnecessary collection runs.
 
-**Tech Stack:** `Python + Flask`  `PostgreSQL` `HTML` `CSS` `JavaScript`
+**Tech Stack:** `Python` `Flask` `PostgreSQL` `HTML` `CSS` `JavaScript`
 
 **Features**
 - Real-time bin fill-level monitoring
@@ -237,9 +250,9 @@ real-time bin monitoring, reducing unnecessary collection runs.
 - Admin dashboard for monitoring zones
 - Alert system for near-capacity bins
 
-<a href="https://github.com/YOUR-USERNAME/smart-garbage-collection-system"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+<a href="https://github.com/shambhavi-mahi/smart-garbage-collection-system"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+<a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
 
 </td>
 </tr>
@@ -248,7 +261,7 @@ real-time bin monitoring, reducing unnecessary collection runs.
 <tr>
 <td width="100%">
 
-<img src="./assets/project-future-ai.png" width="100%" alt="Future AI Project placeholder" />
+<img src="./assets/cover-future-ai.svg" width="100%" alt="Future AI Project placeholder" />
 
 ### Future AI Project — Coming Soon
 
@@ -277,21 +290,20 @@ card's contents once the project is underway.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=F0F6FC" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shambhavi-mahi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=F0F6FC" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhavi-mahi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavi-mahi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shambhavi-mahi&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&hide_border=true" width="100%" />
 
 </div>
 
 <br/>
-
 
 ## LeetCode
 
@@ -331,7 +343,6 @@ card's contents once the project is underway.
 
 <br/>
 
-
 ## Achievements
 
 <table width="100%">
@@ -368,9 +379,6 @@ card's contents once the project is underway.
 </table>
 
 <br/>
-
-<br/>
-
 
 ## Learning Roadmap
 
