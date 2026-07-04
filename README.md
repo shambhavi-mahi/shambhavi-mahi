@@ -7,6 +7,18 @@
 </a>
 
 <br/>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/shambhavi-mahi"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+<a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+<a href="mailto:shambhavimahi23@gmail.com"><img src="https://img.shields.io/badge/Email-79C0FF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-F0F6FC?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
+
+</div>
+
+<br/>
+
 </div>
 
 <br/>
@@ -262,21 +274,6 @@ card's contents once the project is underway.
 - [ ] **Machine Learning**(learning) — supervised learning → applied projects
 - [ ] **Cloud Fundamentals**(learning) — deployment, basic cloud infra
 - [ ] **Backend Depth** — REST API design, auth, database design at scale
-
-<br/>
-
-## Connect
-
-<br/>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/shambhavi-mahi"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
-<a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
-<a href="mailto:shambhavimahi23@gmail.com"><img src="https://img.shields.io/badge/Email-79C0FF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-F0F6FC?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-
-</div>
 
 <br/>
 
