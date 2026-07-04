@@ -1,19 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Shambhavi banner" width="100%" />
-
 <br/>
 
 <a href="https://github.com/shambhavi-mahi">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+in+the+Making;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+C%2B%2B+Developer;Full+Stack+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Java+%7C+C+Developer;Full+Stack+Developer;" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20SWE%20Internships-58A6FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Full%20Stack%20%7C%20AI-79C0FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Based%20in-India-8B949E?style=flat-square&labelColor=0D1117" />
-
+<br/>
 </div>
 
 <br/>
@@ -24,85 +17,18 @@
 <tr>
 <td>
 
-I'm **Shambhavi**, a B.Tech Computer Science student who enjoys turning
-ambiguous problems into clean, working software. My work sits at the
-intersection of **full-stack development** and **applied AI** — I like
-building things that are useful first and impressive second.
+"I believe the best software feels effortless to its users and intentional in its design."
 
-Right now I'm sharpening my fundamentals in data structures and algorithms
-while shipping full-stack projects that force me to think about
-architecture, not just syntax. I'm actively preparing for **Software
-Engineering internships**.
+I'm Shambhavi, a B.Tech Computer Science student driven by curiosity and the challenge of solving real-world problems through technology. I enjoy transforming ideas into scalable, user-focused full-stack web applications, always striving to write code that is clean, maintainable, and built to last.
 
-I care about code that reads well a year later, interfaces that don't make
-users think, and shipping in small, deliberate increments.
+I'm currently strengthening my foundation in Data Structures & Algorithms, Data Analytics and Cloud Computing, while expanding my understanding of software architecture and modern development practices through hands-on projects.
+
+Every project I build is an opportunity to learn something new, refine my engineering mindset and create software that is practical, reliable and thoughtfully designed.
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-**Build to learn**
-<br/>
-<sub>Every project is chosen to stretch a specific skill, not to pad a list.</sub>
-
-</td>
-<td width="33%" align="center">
-
-**Ship, then polish**
-<br/>
-<sub>A working version first — then iterate on structure and detail.</sub>
-
-</td>
-<td width="33%" align="center">
-
-**Write for the next reader**
-<br/>
-<sub>Clear naming, small functions, documentation that's actually used.</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Current Focus
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-
-**🧩 Learning DSA**
-<br/>
-<sub>Arrays → Trees → Graphs → DP</sub>
-
-</td>
-<td width="25%" align="center">
-
-**🛠️ Building Projects**
-<br/>
-<sub>Full-stack, end-to-end ownership</sub>
-
-</td>
-<td width="25%" align="center">
-
-**🎯 SWE Internship Prep**
-<br/>
-<sub>System design fundamentals + mocks</sub>
-
-</td>
-<td width="25%" align="center">
-
-**⚡ Hackathons**
-<br/>
-<sub>Rapid prototyping under constraints</sub>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
