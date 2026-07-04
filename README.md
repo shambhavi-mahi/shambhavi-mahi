@@ -109,8 +109,6 @@ Every project I build is an opportunity to learn something new, refine my engine
 <tr>
 <td width="100%">
 
-<img src="./assets/cover-career-platform.svg" width="100%" alt="AI Career Guidance Platform preview" />
-
 ### Smart Career Guidance Platform
 
 A full-stack career guidance platform that helps students make informed academic and career decisions by bringing together career exploration, college guidance, learning roadmaps and opportunities in one intuitive platform.
@@ -203,8 +201,6 @@ card's contents once the project is underway.
 
 ## GitHub Analytics
 
-<sub>Live stats — these update automatically, no manual editing required.</sub>
-
 <br/>
 
 <div align="center">
@@ -224,43 +220,16 @@ card's contents once the project is underway.
 
 <br/>
 
-## LeetCode
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-**Current Goal**
-<br/>
-<sub>Consistent daily solving — build pattern recognition across arrays, strings, trees, and graphs</sub>
-
-</td>
-<td align="center">
-
-**Problems Solved**
-<br/>
-<sub>`XXX` — placeholder, update manually or via stats card below</sub>
-
-</td>
-<td align="center">
-
 **Contest Rating**
-<br/>
-<sub>`XXXX` — placeholder, update manually or via stats card below</sub>
+💻 Competitive Programming
 
-</td>
-</tr>
-</table>
+🟨 LeetCode
+• XXX Problems Solved
+• Contest Rating: XXXX
 
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=dark&font=Inter&extension=activity" width="70%" />
-
-</div>
-
-<br/>
+🟫 CodeChef
+• ⭐ 4★ Programmer
+• Username: kl2500030872
 
 ## Achievements
 
@@ -270,7 +239,7 @@ card's contents once the project is underway.
 
 **🏆 Hackathons**
 <br/>
-<sub>_Add hackathon names, placements, and links here_</sub>
+<sub>_Participated in Smart India Hackathon_</sub>
 
 </td>
 <td width="25%" valign="top">
@@ -280,20 +249,6 @@ card's contents once the project is underway.
 <sub>_Add certification names + issuing platform here_</sub>
 
 </td>
-<td width="25%" valign="top">
-
-**🚩 Milestones**
-<br/>
-<sub>_First deployed project, first PR merged, etc._</sub>
-
-</td>
-<td width="25%" valign="top">
-
-**🌱 Open Source**
-<br/>
-<sub>_Add contributions once made_</sub>
-
-</td>
 </tr>
 </table>
 
@@ -301,18 +256,16 @@ card's contents once the project is underway.
 
 ## Learning Roadmap
 
-- [x] **Programming Foundations** — Java, Python, C++
-- [ ] **Data Structures & Algorithms** — arrays through graphs, then DP
+- [ ] **Programming Foundations** — Java, C, Python(learning)
+- [ ] **Data Structures & Algorithms** — arrays through graphs, DP(learning)
 - [ ] **System Design** — scalability basics, caching, load balancing
-- [ ] **Machine Learning** — supervised learning → applied projects
-- [ ] **Cloud Fundamentals** — deployment, basic cloud infra
+- [ ] **Machine Learning**(learning) — supervised learning → applied projects
+- [ ] **Cloud Fundamentals**(learning) — deployment, basic cloud infra
 - [ ] **Backend Depth** — REST API design, auth, database design at scale
 
 <br/>
 
 ## Connect
-
-<sub>Open to internship opportunities, collaboration, and technical conversations.</sub>
 
 <br/>
 
