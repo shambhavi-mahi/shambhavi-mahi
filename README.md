@@ -101,9 +101,6 @@ Every project I build is an opportunity to learn something new, refine my engine
 
 ## Featured Projects
 
-<sub>Three shipped projects, plus one in planning — each chosen to
-exercise a different part of the stack above.</sub>
-
 <br/>
 
 <table width="100%">
@@ -114,11 +111,9 @@ exercise a different part of the stack above.</sub>
 
 <img src="./assets/cover-career-platform.svg" width="100%" alt="AI Career Guidance Platform preview" />
 
-### AI Career Guidance Platform
+### Smart Career Guidance Platform
 
-An intelligent platform that helps students choose careers, colleges,
-learning roadmaps, and relevant opportunities based on their interests and
-academic profile.
+A full-stack career guidance platform that helps students make informed academic and career decisions by bringing together career exploration, college guidance, learning roadmaps and opportunities in one intuitive platform.
 
 **Tech Stack:** `Python` `Flask` `PostgreSQL` `HTML` `CSS` `JavaScript`
 
@@ -138,8 +133,6 @@ academic profile.
 <!-- PROJECT 2 -->
 <tr>
 <td width="100%">
-
-<img src="./assets/cover-sports-analytics.svg" width="100%" alt="Sports Analytics Dashboard preview" />
 
 ### Sports Analytics Dashboard
 
@@ -165,8 +158,6 @@ and visual insights drawn from match data.
 <tr>
 <td width="100%">
 
-<img src="./assets/cover-smart-garbage.svg" width="100%" alt="Smart Garbage Collection System preview" />
-
 ### Smart Garbage Collection System
 
 A smart-city solution that optimizes waste collection routes using
@@ -190,8 +181,6 @@ real-time bin monitoring, reducing unnecessary collection runs.
 <!-- PROJECT 4 — FUTURE PLACEHOLDER -->
 <tr>
 <td width="100%">
-
-<img src="./assets/cover-future-ai.svg" width="100%" alt="Future AI Project placeholder" />
 
 ### Future AI Project — Coming Soon
 
