@@ -211,6 +211,14 @@ A placeholder for the next AI/ML project in the pipeline. Replace this card's co
 
 <img src="https://streak-stats.demolab.com/?user=shambhavi-mahi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shambhavi-mahi&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shambhavi-mahi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
+
 </div>
 
 <br/>
