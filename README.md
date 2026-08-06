@@ -47,7 +47,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/Python%20(Learning)-58A6FF?style=for-the-badge&logo=python&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=0D1117" />
 
 </td>
 <td valign="top" width="50%">
@@ -56,7 +56,10 @@ Every project I build is an opportunity to learn something new, refine my engine
 <br/>
 <img src="https://img.shields.io/badge/HTML5-79C0FF?style=for-the-badge&logo=html5&logoColor=0D1117" />
 <img src="https://img.shields.io/badge/CSS3-79C0FF?style=for-the-badge&logo=css3&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-79C0FF?style=for-the-badge&logo=tailwindcss&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/SCSS-79C0FF?style=for-the-badge&logo=sass&logoColor=0D1117" />
 <img src="https://img.shields.io/badge/JavaScript-79C0FF?style=for-the-badge&logo=javascript&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/React-79C0FF?style=for-the-badge&logo=react&logoColor=0D1117" />
 
 </td>
 </tr>
@@ -67,6 +70,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 **Backend**
 <br/>
 <img src="https://img.shields.io/badge/Flask-58A6FF?style=for-the-badge&logo=flask&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Spring%20Boot-58A6FF?style=for-the-badge&logo=springboot&logoColor=0D1117" />
 
 </td>
 <td valign="top" width="50%">
@@ -74,6 +78,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 **Database**
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-79C0FF?style=for-the-badge&logo=postgresql&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/MongoDB-79C0FF?style=for-the-badge&logo=mongodb&logoColor=0D1117" />
 
 </td>
 </tr>
@@ -91,10 +96,10 @@ Every project I build is an opportunity to learn something new, refine my engine
 </td>
 <td valign="top" width="50%">
 
-**Currently Learning**
+**Core CS**
 <br/>
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Cloud%20Computing-0D1117?style=for-the-badge&logo=googlecloud&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/AI%20Basics-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" />
 
 </td>
 </tr>
@@ -261,17 +266,6 @@ Username: `kl2500030872`
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🗺️ Learning Roadmap
-
-- [ ] **Programming Foundations** — Java, C, Python (learning)
-- [ ] **Data Structures & Algorithms** — arrays through graphs, DP (learning)
-- [ ] **System Design** — scalability basics, caching, load balancing
-- [ ] **Machine Learning** (learning) — supervised learning → applied projects
-- [ ] **Cloud Fundamentals** (learning) — deployment, basic cloud infra
-- [ ] **Backend Depth** — REST API design, auth, database design at scale
 
 <br/>
 
