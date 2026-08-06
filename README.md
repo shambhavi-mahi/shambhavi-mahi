@@ -211,27 +211,20 @@ A placeholder for the next AI/ML project in the pipeline. Replace this card's co
 
 <img src="https://streak-stats.demolab.com/?user=shambhavi-mahi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shambhavi-mahi&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&hide_border=true" width="100%" />
-
 </div>
 
 <br/>
 
 ## 🏅 Competitive Programming
 
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Shambhavi_mahi?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**🟨 LeetCode**
-<br/>
-Problems Solved: _add count_
-<br/>
-Contest Rating: _add rating_
-
-</td>
 <td width="50%" valign="top">
 
 **🟫 CodeChef**
@@ -239,6 +232,13 @@ Contest Rating: _add rating_
 ⭐ 4★ Programmer
 <br/>
 Username: `kl2500030872`
+
+</td>
+<td width="50%" valign="top">
+
+**🟨 LeetCode**
+<br/>
+Username: `Shambhavi_mahi`
 
 </td>
 </tr>
