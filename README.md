@@ -1,23 +1,18 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=220&section=header&text=Hi%20There,%20I'm%20Shambhavi&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CS%20Student%20%40%20KL%20University&descAlignY=58&descSize=18&descColor=79C0FF" width="100%" />
+
 <br/>
 
 <a href="https://github.com/shambhavi-mahi">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Shambhavi;KL University;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Full-Stack+Developer;B.Tech+Computer+Science+%40+KL+University;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://linkedin.com/in/shambhavi-mahi"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
 <a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
 <a href="mailto:shambhavimahi23@gmail.com"><img src="https://img.shields.io/badge/Email-79C0FF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-F0F6FC?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-
-</div>
-
-<br/>
 
 </div>
 
@@ -29,18 +24,17 @@
 <tr>
 <td>
 
-"I believe the best software feels effortless to its users and intentional in its design."
+> "I believe the best software feels effortless to its users and intentional in its design."
 
 I'm Shambhavi, a B.Tech Computer Science student driven by curiosity and the challenge of solving real-world problems through technology. I enjoy transforming ideas into scalable, user-focused full-stack web applications, always striving to write code that is clean, maintainable, and built to last.
 
 I'm currently strengthening my foundation in Data Structures & Algorithms, Data Analytics and Cloud Computing, while expanding my understanding of software architecture and modern development practices through hands-on projects.
 
-Every project I build is an opportunity to learn something new, refine my engineering mindset and create software that is practical, reliable and thoughtfully designed.
+Every project I build is an opportunity to learn something new, refine my engineering mindset, and create software that is practical, reliable, and thoughtfully designed.
 
 </td>
 </tr>
 </table>
-
 
 <br/>
 
@@ -56,7 +50,6 @@ Every project I build is an opportunity to learn something new, refine my engine
 <img src="https://img.shields.io/badge/Python%20(Learning)-58A6FF?style=for-the-badge&logo=python&logoColor=0D1117" />
 
 </td>
-
 <td valign="top" width="50%">
 
 **Frontend**
@@ -76,7 +69,6 @@ Every project I build is an opportunity to learn something new, refine my engine
 <img src="https://img.shields.io/badge/Flask-58A6FF?style=for-the-badge&logo=flask&logoColor=0D1117" />
 
 </td>
-
 <td valign="top" width="50%">
 
 **Database**
@@ -97,7 +89,6 @@ Every project I build is an opportunity to learn something new, refine my engine
 <img src="https://img.shields.io/badge/PyCharm-8B949E?style=for-the-badge&logo=pycharm&logoColor=0D1117" />
 
 </td>
-
 <td valign="top" width="50%">
 
 **Currently Learning**
@@ -111,7 +102,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <br/>
 
@@ -121,7 +112,7 @@ Every project I build is an opportunity to learn something new, refine my engine
 <tr>
 <td width="100%">
 
-### Smart Career Guidance Platform
+### 🎓 Smart Career Guidance Platform
 
 A full-stack career guidance platform that helps students make informed academic and career decisions by bringing together career exploration, college guidance, learning roadmaps and opportunities in one intuitive platform.
 
@@ -134,8 +125,6 @@ A full-stack career guidance platform that helps students make informed academic
 - Clean, responsive dashboard UI
 
 <a href="https://github.com/shambhavi-mahi/ai-career-guidance-platform"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
 
 </td>
 </tr>
@@ -144,10 +133,9 @@ A full-stack career guidance platform that helps students make informed academic
 <tr>
 <td width="100%">
 
-### Sports Analytics Dashboard
+### 📊 Sports Analytics Dashboard
 
-An interactive dashboard for player performance analysis, team comparisons,
-and visual insights drawn from match data.
+An interactive dashboard for player performance analysis, team comparisons, and visual insights drawn from match data.
 
 **Tech Stack:** `Java` `PostgreSQL` `JavaScript` `HTML` `CSS`
 
@@ -158,8 +146,6 @@ and visual insights drawn from match data.
 - Insight cards summarizing key trends
 
 <a href="https://github.com/shambhavi-mahi/sports-analytics-dashboard"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
 
 </td>
 </tr>
@@ -168,10 +154,9 @@ and visual insights drawn from match data.
 <tr>
 <td width="100%">
 
-### Smart Garbage Collection System
+### ♻️ Smart Garbage Collection System
 
-A smart-city solution that optimizes waste collection routes using
-real-time bin monitoring, reducing unnecessary collection runs.
+A smart-city solution that optimizes waste collection routes using real-time bin monitoring, reducing unnecessary collection runs.
 
 **Tech Stack:** `Python` `Flask` `PostgreSQL` `HTML` `CSS` `JavaScript`
 
@@ -182,8 +167,6 @@ real-time bin monitoring, reducing unnecessary collection runs.
 - Alert system for near-capacity bins
 
 <a href="https://github.com/shambhavi-mahi/smart-garbage-collection-system"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://github.com/shambhavi-mahi"><img src="https://img.shields.io/badge/GitHub-8B949E?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
 
 </td>
 </tr>
@@ -192,17 +175,16 @@ real-time bin monitoring, reducing unnecessary collection runs.
 <tr>
 <td width="100%">
 
-### Future AI Project — Coming Soon
+### 🔮 Future AI Project — Coming Soon
 
-A placeholder for the next AI/ML project in the pipeline. Replace this
-card's contents once the project is underway.
+A placeholder for the next AI/ML project in the pipeline. Replace this card's contents once the project is underway.
 
 **Tech Stack:** `TBD`
 
 **Planned Features**
 - _To be defined as the project scope is finalized_
 
-<img src="https://img.shields.io/badge/Status-Planning-8B949E?style=for-the-badge&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Planning-8B949E?style=for-the-badge" />
 
 </td>
 </tr>
@@ -211,7 +193,7 @@ card's contents once the project is underway.
 
 <br/>
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <br/>
 
@@ -222,7 +204,7 @@ card's contents once the project is underway.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavi-mahi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC" />
+<img src="https://streak-stats.demolab.com/?user=shambhavi-mahi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC" />
 
 <br/>
 
@@ -232,29 +214,45 @@ card's contents once the project is underway.
 
 <br/>
 
-**Contest Rating**
-💻 Competitive Programming
-
-🟨 LeetCode
-• XXX Problems Solved
-• Contest Rating: XXXX
-
-🟫 CodeChef
-• ⭐ 4★ Programmer
-• Username: kl2500030872
-
-## Achievements
+## 🏅 Competitive Programming
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
+
+**🟨 LeetCode**
+<br/>
+Problems Solved: _add count_
+<br/>
+Contest Rating: _add rating_
+
+</td>
+<td width="50%" valign="top">
+
+**🟫 CodeChef**
+<br/>
+⭐ 4★ Programmer
+<br/>
+Username: `kl2500030872`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Achievements
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 **🏆 Hackathons**
 <br/>
 <sub>_Participated in Smart India Hackathon_</sub>
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 **📜 Certifications**
 <br/>
@@ -266,17 +264,19 @@ card's contents once the project is underway.
 
 <br/>
 
-## Learning Roadmap
+## 🗺️ Learning Roadmap
 
-- [ ] **Programming Foundations** — Java, C, Python(learning)
-- [ ] **Data Structures & Algorithms** — arrays through graphs, DP(learning)
+- [ ] **Programming Foundations** — Java, C, Python (learning)
+- [ ] **Data Structures & Algorithms** — arrays through graphs, DP (learning)
 - [ ] **System Design** — scalability basics, caching, load balancing
-- [ ] **Machine Learning**(learning) — supervised learning → applied projects
-- [ ] **Cloud Fundamentals**(learning) — deployment, basic cloud infra
+- [ ] **Machine Learning** (learning) — supervised learning → applied projects
+- [ ] **Cloud Fundamentals** (learning) — deployment, basic cloud infra
 - [ ] **Backend Depth** — REST API design, auth, database design at scale
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%" />
+
 <div align="center">
-<sub>Thanks for visiting.</sub>
+<sub>Thanks for visiting! ⭐ this profile if you found it inspiring.</sub>
 </div>
