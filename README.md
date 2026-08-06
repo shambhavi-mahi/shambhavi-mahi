@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://github.com/shambhavi-mahi">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Java+%7C+C+Developer;Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Shambhavi;KL University;" alt="Typing SVG" />
 </a>
 
 <br/>
